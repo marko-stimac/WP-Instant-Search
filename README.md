@@ -5,4 +5,4 @@ Instant Search is a simple and very lightweight WordPress plugin for instant sea
 
 ## Requirements
 
-You need to install [WP Rest Api V2 Multiple PostTypes](https://wordpress.org/plugins/wp-api-multiple-posttype/), because both posts and pages are searchable which to my understand currently is not possible. If you wish to change querying modify searchQueryparams to your needs in /assets/instant-search.js
+You need to install [WP Rest Api V2 Multiple PostTypes](https://wordpress.org/plugins/wp-api-multiple-posttype/), because both posts and pages are searchable which to my understand currently is not possible without a plugin. If you wish to change querying modify searchQueryparams to your needs in /assets/instant-search.js
